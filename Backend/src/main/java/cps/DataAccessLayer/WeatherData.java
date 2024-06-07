@@ -1,4 +1,4 @@
-package cps;
+package cps.DataAccessLayer;
 import jakarta.persistence.*;
 import lombok.Data;
 
